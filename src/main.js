@@ -5,7 +5,7 @@ import App from './App'
 import router from './router'
 
 Vue.config.productionTip = false
-// vue开发环境搭建（WebStorm）: https://segmentfault.com/a/1190000008143264
+// vue开发环境搭建（WebStorm）: https://blog.csdn.net/nero__a/article/details/62228646
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
